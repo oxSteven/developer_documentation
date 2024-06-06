@@ -5,6 +5,9 @@ Project
     :titlesonly:
     :glob:
 
+    dotenv
+    db_config
+
     *
     module_configuration/index
     twig_template_engine/index
